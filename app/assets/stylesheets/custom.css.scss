@@ -1,0 +1,18 @@
+$navbar-background-color: #bada55;
+$navbar-links-color: #fff;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+  padding-top: 80px;
+}
+
+#logo {
+  float: left;
+  margin-right: 10px;
+}
+
+.header {
+  padding: 10px 0;
+}
